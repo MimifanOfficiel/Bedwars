@@ -1,0 +1,4 @@
+name: Bedwars
+version: '${project.version}'
+main: fr.mimifan.bedwars.Bedwars
+api-version: '1.18'
